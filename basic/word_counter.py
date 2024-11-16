@@ -3,8 +3,10 @@
 import jieba
 import collections
 
-def word_count(file_path):
-    with open(file_path, "r", encoding='utf-8') as f:
+WORD_COUNT_FILE = "./dataset/test.txt";
+
+def word_count():
+    with open(WORD_COUNT_FILE, "r", encoding='utf-8') as f:
         data = f.readlines()
         word_list = []
         for line in data:
