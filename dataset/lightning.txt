@@ -1,0 +1,6 @@
+1、构建编写网页   推荐：HTML、CSS、PHP
+2、开发app    推荐：Java、C++
+3、制作视频游戏    推荐：Python、Java
+4、对数据进行管理    推荐：C#、PHP、Python
+5、进行偏硬件的编程   推荐：C
+6、进行科学计算     推荐：Python
